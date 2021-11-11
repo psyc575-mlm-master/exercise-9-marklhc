@@ -1,7 +1,7 @@
 ---
 title: "Exercise: Model Averaging and GitHub"
-author: "Mark Lai"
-date: "11/04/2021"
+author: "Mark Lai & Another Mark Lai"
+date: "11/11/2021"
 output:
   github_document:
     toc: true
